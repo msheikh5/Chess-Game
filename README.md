@@ -3,15 +3,15 @@
 A complete object-oriented chess game implementation in Java, designed with clean code principles and SOLID design patterns.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Design Patterns](#design-patterns)
-- [Class Structure](#class-structure)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Design Principles](#design-principles)
-- [Author](#author)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Architecture](#-architecture)
+- [Design Patterns](#-design-patterns)
+- [Class Structure](#-class-structure)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Design Principles](#-design-principles)
+- [Author](#-author)
 
 ## 🎯 Overview
 
